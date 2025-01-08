@@ -18,13 +18,6 @@ This repository is more than just a class project; it is a foundation for future
 - Collaborate with peers to tackle challenging data problems and publish findings.
 - Use this space as a stepping stone for academic and professional endeavors in data science.
 
-## How to Contribute
-We welcome contributions to this growing repository. Here’s how you can get involved:
-1. **Fork this Repository**: Create your copy of the project and experiment freely.
-2. **Submit Pull Requests**: Share your improvements or additions with the broader community.
-3. **Propose Enhancements**: Open an issue to discuss potential new features, methods, or datasets.
-4. **Engage in Discussions**: Participate in project discussions to exchange ideas and insights with fellow contributors.
-
 ## Repository Structure
 The repository is organized as follows:
 - **/docs**: Course materials, lecture slides, and supporting documentation.
@@ -40,9 +33,9 @@ The repository is organized as follows:
 - **Collaboration**: GitHub for version control and team collaboration.
 
 ## Acknowledgments
-This project would not be possible without the guidance of **Dr. Mohammad Osman Gani** and the support of our Teaching Assistant, **Rohan Putatunda**. Special thanks to UMBC’s Department of Information Systems for fostering an environment that encourages innovation and collaboration.
+This project would not be possible without the hardwork of all of the students who were in class with  of **Dr. Basnyat** and the support of our Teaching Assistant, **. Special thanks to UMBC’s Department of Information Systems for fostering an environment that encourages innovation and collaboration.
 
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/mlteach/is7332025/-link.git
